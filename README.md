@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Singh</h1>
 <h3 align="center">A passionate Machine Learning Student</h3>
 
-<p align="left"> <img src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" /> </p>
+<p align="left"> <img align="right" alt="coding" width="400" img src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@harshsi44818509" target="blank"><img src="https://img.shields.io/twitter/follow/@harshsi44818509?logo=twitter&style=for-the-badge" alt="@harshsi44818509" /></a> </p>
 
